@@ -8,7 +8,7 @@ This repository contains five files:
 * Readme.md which is this readme file.
 * CodeBook.md which describes the variables, data, and transformations that were performed to clean up the data.
 * HumanActivityRecognitionUsingSmartphones.csv which is the tidied mean and standard deviation measure data with subject and activity info.
-* HumanActivityRecognitionUsingSmartphones.csv which is a summary of HumanActivityRecognitionUsingSmartphones.csv by subject and activity with all of the measures averaged.
+* HumanActivityRecognitionUsingSmartphonesSummary.csv which is a summary of HumanActivityRecognitionUsingSmartphones.csv by subject and activity with all of the measures averaged.
 * run_analysis.R that downloads the source data, tidies that data and creates two data frames of tidied data.
 
 For further information please see CodeBook.md
